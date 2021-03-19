@@ -2,4 +2,4 @@
 A simple design for login and register form made with Windows Forms Application
 
 ## Demo
-[] (registerForm.gif)
+![Login and Register form Demo](demo/registerForm.gif)
