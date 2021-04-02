@@ -1,0 +1,22 @@
+C:\Users\Rositsa Ruseva\source\repos\Login And Register Form\Login And Register Form\bin\Debug\Login And Register Form.exe.config
+C:\Users\Rositsa Ruseva\source\repos\Login And Register Form\Login And Register Form\bin\Debug\Login And Register Form.exe
+C:\Users\Rositsa Ruseva\source\repos\Login And Register Form\Login And Register Form\bin\Debug\Login And Register Form.pdb
+C:\Users\Rositsa Ruseva\source\repos\Login And Register Form\Login And Register Form\obj\Debug\Login And Register Form.csprojAssemblyReference.cache
+C:\Users\Rositsa Ruseva\source\repos\Login And Register Form\Login And Register Form\obj\Debug\Login_And_Register_Form.registerForm.resources
+C:\Users\Rositsa Ruseva\source\repos\Login And Register Form\Login And Register Form\obj\Debug\Login_And_Register_Form.frmLogin.resources
+C:\Users\Rositsa Ruseva\source\repos\Login And Register Form\Login And Register Form\obj\Debug\Login_And_Register_Form.Properties.Resources.resources
+C:\Users\Rositsa Ruseva\source\repos\Login And Register Form\Login And Register Form\obj\Debug\Login And Register Form.csproj.GenerateResource.cache
+C:\Users\Rositsa Ruseva\source\repos\Login And Register Form\Login And Register Form\obj\Debug\Login And Register Form.csproj.CoreCompileInputs.cache
+C:\Users\Rositsa Ruseva\source\repos\Login And Register Form\Login And Register Form\obj\Debug\Login And Register Form.exe
+C:\Users\Rositsa Ruseva\source\repos\Login And Register Form\Login And Register Form\obj\Debug\Login And Register Form.pdb
+C:\Users\Rositsa Ruseva\Desktop\HTML\Философия на съзнанието\Login and Register Form\Login And Register Form\bin\Debug\Login And Register Form.exe.config
+C:\Users\Rositsa Ruseva\Desktop\HTML\Философия на съзнанието\Login and Register Form\Login And Register Form\bin\Debug\Login And Register Form.exe
+C:\Users\Rositsa Ruseva\Desktop\HTML\Философия на съзнанието\Login and Register Form\Login And Register Form\bin\Debug\Login And Register Form.pdb
+C:\Users\Rositsa Ruseva\Desktop\HTML\Философия на съзнанието\Login and Register Form\Login And Register Form\obj\Debug\Login And Register Form.csprojAssemblyReference.cache
+C:\Users\Rositsa Ruseva\Desktop\HTML\Философия на съзнанието\Login and Register Form\Login And Register Form\obj\Debug\Login_And_Register_Form.registerForm.resources
+C:\Users\Rositsa Ruseva\Desktop\HTML\Философия на съзнанието\Login and Register Form\Login And Register Form\obj\Debug\Login_And_Register_Form.frmLogin.resources
+C:\Users\Rositsa Ruseva\Desktop\HTML\Философия на съзнанието\Login and Register Form\Login And Register Form\obj\Debug\Login_And_Register_Form.Properties.Resources.resources
+C:\Users\Rositsa Ruseva\Desktop\HTML\Философия на съзнанието\Login and Register Form\Login And Register Form\obj\Debug\Login And Register Form.csproj.GenerateResource.cache
+C:\Users\Rositsa Ruseva\Desktop\HTML\Философия на съзнанието\Login and Register Form\Login And Register Form\obj\Debug\Login And Register Form.csproj.CoreCompileInputs.cache
+C:\Users\Rositsa Ruseva\Desktop\HTML\Философия на съзнанието\Login and Register Form\Login And Register Form\obj\Debug\Login And Register Form.exe
+C:\Users\Rositsa Ruseva\Desktop\HTML\Философия на съзнанието\Login and Register Form\Login And Register Form\obj\Debug\Login And Register Form.pdb
